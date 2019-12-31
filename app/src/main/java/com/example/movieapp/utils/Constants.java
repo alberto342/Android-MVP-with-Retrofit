@@ -1,9 +1,4 @@
-/**
- * @file Constants.java
- * @brief This class will hold all constants from the project.
- * @author Shrikant
- * @date 15/04/2018
- */
+
 package com.example.movieapp.utils;
 
 public class Constants {
