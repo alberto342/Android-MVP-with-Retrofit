@@ -1,9 +1,4 @@
-/**
- * @file MovieDetailsActivity.java
- * @brief This class is responsible for showing movie details
- * @author Shrikant
- * @date 14/04/2018
- */
+
 
 package com.example.movieapp.movie_details;
 
