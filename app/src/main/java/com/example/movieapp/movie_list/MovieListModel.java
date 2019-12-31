@@ -1,9 +1,3 @@
-/**
- * @file MovieListModel.java
- * @brief This is model class for list screen, it will handle all business logic.
- * @author Shrikant
- * @date 14/04/2018
- */
 
 package com.example.movieapp.movie_list;
 
