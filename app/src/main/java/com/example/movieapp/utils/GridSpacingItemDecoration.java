@@ -1,9 +1,4 @@
-/**
- * @file GridSpacingItemDecoration.java
- * @brief This class will handle the decoration for movie list recycle view.
- * @author Shrikant
- * @date 14/04/2018
- */
+
 package com.example.movieapp.utils;
 
 import android.content.Context;
