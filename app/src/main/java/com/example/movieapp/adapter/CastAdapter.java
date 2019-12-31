@@ -1,10 +1,3 @@
-/**
- * @file CastAdapter.java
- * @brief This is adapter class responsible for showing movie casts.
- * @author Shrikant
- * @date 15/04/2018
- */
-
 package com.example.movieapp.adapter;
 
 import android.content.Context;
