@@ -1,9 +1,3 @@
-/**
- * @file MovieFilterActivity.java
- * @brief This activity is responsible for handling the filter functionality for Movies.
- * @author Shrikant
- * @date 16/04/2018
- */
 
 package com.example.movieapp.movie_filter;
 
