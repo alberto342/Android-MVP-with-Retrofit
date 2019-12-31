@@ -1,9 +1,4 @@
-/**
- * @file MovieDetailsContract.java
- * @brief This is the contract class for Movie details MVP
- * @author Shrikant
- * @date 15/04/2018
- */
+
 package com.example.movieapp.movie_details;
 
 import com.example.movieapp.model.Movie;
