@@ -1,9 +1,4 @@
-/**
- * @file MovieListActivity.java
- * @brief This activity is responsible for showing all movies data in the list format.
- * @author Shrikant
- * @date 14/04/2018
- */
+
 
 package com.example.movieapp.movie_list;
 
