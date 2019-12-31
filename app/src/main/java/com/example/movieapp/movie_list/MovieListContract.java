@@ -1,9 +1,4 @@
-/**
- * @file MovieListContract.java
- * @brief This is the contract class, it will have interfaces for model, view and presenter.
- * @author Shrikant
- * @date 14/04/2018
- */
+
 
 package com.example.movieapp.movie_list;
 
