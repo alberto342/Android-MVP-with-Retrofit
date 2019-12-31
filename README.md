@@ -1,5 +1,5 @@
 # Android-MVP-with-Retrofit
-[ ![Example](https://img.shields.io/badge/Example-Android%20MVP%20with%20Retrofit%202.0-green.svg)](https://medium.com/@shri_chaudhari/working-with-mvp-and-retrofit-2-0-in-android-4016253ab3fc)
+[ ![Example](https://img.shields.io/badge/Example-Android%20MVP%20with%20Retrofit%202.0-green.svg)](#)
 > This is the sample app to show how we can use MVP architecture along with Retrofit 2.0 library in our Android App.
 
 
