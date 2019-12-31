@@ -1,9 +1,4 @@
-/**
- * @file MovieListPresenter.java
- * @brief This is a presentation class, handles the communication between list view and list model
- * @author Shrikant
- * @date 15/04/2018
- */
+
 package com.example.movieapp.movie_list;
 
 import java.util.List;
