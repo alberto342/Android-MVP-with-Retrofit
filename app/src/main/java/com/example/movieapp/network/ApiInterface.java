@@ -1,9 +1,4 @@
-/**
- * @file ApiInterface.java
- * @brief This is the api interface class, it will contain all the Api call references
- * @author Shrikant
- * @date 14/04/2018
- */
+
 package com.example.movieapp.network;
 
 import com.example.movieapp.model.Movie;
