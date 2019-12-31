@@ -1,9 +1,4 @@
-/**
- * @file Cast.java
- * @brief This is the pojo class, it contains all the data for Movie cast
- * @author Shrikant
- * @date 16/04/2018
- */
+
 package com.example.movieapp.model;
 
 import com.google.gson.annotations.SerializedName;
