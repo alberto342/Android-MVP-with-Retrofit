@@ -1,9 +1,4 @@
-/**
- * @file MovieDetailsModel.java
- * @brief This is model class for details screen, it will handle all business logic.
- * @author Shrikant
- * @date 15/04/2018
- */
+
 package com.example.movieapp.movie_details;
 
 import android.util.Log;
