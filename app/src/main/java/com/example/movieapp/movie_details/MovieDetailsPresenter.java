@@ -1,10 +1,4 @@
-/**
- * @file MovieDetailsPresenter.java
- * @brief This is the presenter class for movie details functionality, it will act as
- * an intermediate between views and model
- * @author Shrikant
- * @date 15/04/2018
- */
+
 
 package com.example.movieapp.movie_details;
 
