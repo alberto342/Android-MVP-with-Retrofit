@@ -1,9 +1,4 @@
-/**
- * @file MovieListResponse.java
- * @brief This class will be useful when are going to call api for get movies.
- * @author Shrikant
- * @date 14/04/2018
- */
+
 package com.example.movieapp.model;
 
 import com.google.gson.annotations.SerializedName;
