@@ -1,9 +1,4 @@
-/**
- * @file Movie.java
- * @brief This is the pojo class for movie data. It will have all attribute related to the movie.
- * @author Shrikant
- * @date 14/04/2018
- */
+
 package com.example.movieapp.model;
 
 import com.google.gson.annotations.SerializedName;
