@@ -1,9 +1,4 @@
-/**
- * @file MovieAdapter.java
- * @brief This is an adapter class responsible for showing movies data.
- * @author Shrikant
- * @date 14/04/2018
- */
+
 package com.example.movieapp.adapter;
 
 import android.graphics.drawable.Drawable;
